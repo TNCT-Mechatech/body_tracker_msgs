@@ -57,6 +57,8 @@ add_message_files(
     BodyTracker.msg
     BodyTrackerArray.msg
     Skeleton.msg
+    Gesture.msg
+    Gestures.msg
 )
 
 ## Generate services in the 'srv' folder
