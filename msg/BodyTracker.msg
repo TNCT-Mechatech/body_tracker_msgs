@@ -1,4 +1,5 @@
 int32  body_id
+float32  confidence
 int32  tracking_status
 int32  gesture
 bool   face_found
